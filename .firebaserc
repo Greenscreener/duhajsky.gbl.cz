@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "gbl-site"
+  },
+  "targets": {
+    "gbl-site": {
+      "hosting": {
+        "duhajsky-gbl-site": [
+          "duhajsky-gbl-site"
+        ]
+      }
+    }
+  }
+}
