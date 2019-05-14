@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": ".",
+    "target":"duhajsky-gbl-site",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
