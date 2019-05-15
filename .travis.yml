@@ -1,3 +1,5 @@
+language: generic
+
 deploy:
   provider: firebase
   message: "Autodeploy from Travis CI."
